@@ -2,4 +2,4 @@
 
 -This is special program created by PD
 
--[Link]("github.com/zeroprojecthub")
+-[Link]("https://github.com/zeroprojecthub")
